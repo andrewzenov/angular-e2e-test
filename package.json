@@ -1,0 +1,25 @@
+{
+  "name": "angular-e2e-test",
+  "version": "0.0.1",
+  "description":"",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-protractor": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewzenov/angular-e2e-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewzenov/angular-e2e-test/issues"
+  },
+  "homepage": "https://github.com/andrewzenov/angular-e2e-test#readme"
+}
